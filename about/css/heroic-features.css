@@ -1,0 +1,25 @@
+body {
+  padding-top: 56px;
+  background-image: url("http://24.media.tumblr.com/tumblr_m98psax1qx1qj73e2o1_500.gif");
+
+}
+
+.jumbotron.my-4 {
+background-color: cyan
+}
+
+.card-text {
+  color: cyan!important;
+
+}
+.card-body{
+  color:cyan !important;
+  
+}
+.col-lg-3.col-md-6.mb-4{
+  background-color:black;
+}
+
+.card.h-100{
+  background-color:black;
+}
